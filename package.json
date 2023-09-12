@@ -1,7 +1,11 @@
 {
-  "name": "startup-nextjs-template",
+  "name": "minztechh",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "rishat.5081@gmail",
+    "name": "Saad Sohail"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
