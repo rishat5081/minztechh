@@ -449,7 +449,7 @@ const BlogSidebarPage = () => {
                 </div>
               </div>
 
-              <NewsLatterBox />
+              {/* <NewsLatterBox /> */}
             </div>
           </div>
         </div>

@@ -21,16 +21,15 @@ const Footer = () => {
                     height={30}
                   />
                   <Image
-                    src="images/logo/logo.svg"
+                    src="/images/logo/mt-02.png"    // main logo
                     alt="logo"
                     className="hidden w-full dark:block"
-                    width={140}
+                    width={70}
                     height={30}
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Minz Techh
                 </p>
                 <div className="flex items-center">
                   <a
@@ -93,7 +92,7 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
+            {/* <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
                   Useful Links
@@ -128,9 +127,9 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
+            {/* <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
                   Terms
@@ -165,9 +164,9 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
-            <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
+            {/* <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
                   Support & Help
@@ -202,13 +201,13 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="bg-primary/10 py-8">
           <div className="container">
             <p className="text-center text-base text-body-color dark:text-white">
-              Template by UIdeck and <a href="https://nextjstemplates.com" rel="nofollow noopener">Next.js Templates</a>
+              Copyrights@ <a href="/" rel="nofollow noopener">Minz Techh</a>
             </p>
           </div>
         </div>
